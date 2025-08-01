@@ -66,4 +66,46 @@
 - **TODO**: MainViewModel 또는 App.xaml.cs에서 초기화 시 로딩 처리 (`LoadCommand` 자동 실행)
 
 ---
+## 🔧 예정된 추가 작업 내역
+
+### 1. RelayCommand → 이벤트(Event) 기반 구조로 리팩토링 예정
+- **계획 목적**:
+  - 기존 MVVM의 `RelayCommand` 방식에서 벗어나, ViewModel이 직접 로직을 수행하기보다는 **요청 이벤트만 발생**시키고 실제 동작은 외부에서 구독하여 처리
+- **예정 작업**:
+  - `AddSpotCommand`, `DeleteSpotCommand` 등을 제거
+  - 대신 `AddSpotRequested`, `DeleteSpotRequested` 등 이벤트 정의 및 발생
+  - View 또는 상위 ViewModel에서 이벤트 구독 후 로직 실행
+- **기대 효과**:
+  - **관심사 분리** 강화 (ViewModel은 요청만, 실제 처리 로직은 외부에 위임)
+  - 다중 ViewModel/서비스와의 유연한 연동 가능
+  - 테스트 및 유지보수성 향상
+
+---
+
+### 2. MVVM 패턴 구조 보완 및 리팩토링
+- **현재 상태**:
+  - MVVM 패턴은 대부분 적용되어 있으나 일부 View(View → ViewModel) 의존 코드 또는 데이터 흐름이 불명확한 부분 존재
+- **예정 작업**:
+  - ViewModel 책임 분리: 생성, 선택, 저장 관련 로직 구분
+  - `VideoViewModel`과 `ProjectViewModel` 간 데이터 동기화 명확화
+  - 명시적인 DI 기반 팩토리 주입 정리
+- **기대 효과**:
+  - ViewModel 간 역할이 더 명확해지고 테스트 용이성 증가
+  - 유지보수가 쉬운 구조 확립
+
+---
+
+### 3. UserControl 및 BindingProxy 구조 정리 및 활용 예정
+- **현재 상태**:
+  - `SpotEditorControl`은 구현 완료되어 사용 중이지만, 일부 데이터 흐름이 ElementName 중심으로 설정되어 있음
+- **예정 작업**:
+  - `BindingProxy`를 더 효과적으로 활용하여 깊은 트리 구조에서의 DataContext 접근 정리
+  - SpotEditorControl 내의 선택 핫스팟, 색상 변경, Drag/Resize 처리를 더 깔끔하게 ViewModel 중심으로 정리
+  - 다른 화면(예: DashView)에도 SpotEditorControl 재사용 가능하도록 속성 및 명령 통합
+- **기대 효과**:
+  - UI 구성 재사용성 증가
+  - XAML 구조 단순화 및 가독성 향상
+  - 기능 변경 시 수정 범위 최소화
+
+---
 
