@@ -1,0 +1,31 @@
+﻿<dx:ThemedWindow x:Class="ShowRoomDisplay.Windows.MainWindowView"
+                 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                 xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                 xmlns:local="clr-namespace:ShowRoomDisplay"
+                 xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+                 xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+                 mc:Ignorable="d"
+                 Title="MainWindow" Height="450" Width="800"
+                 xmlns:convMVVM2="https://github.com/gellston/ConvMVVM2"
+                 convMVVM2:ViewModelLocator.AutoWireViewModel="True"
+                 convMVVM2:ViewModelLocator.UseNamePatternMapper="True"
+                 convMVVM2:ViewModelLocator.UseViewModelMapper="False"
+                 dx:ThemeManager.ThemeName="VS2019Dark">
+
+    <dx:ThemedWindow.HeaderItems>
+        <dx:SimpleButton Glyph="{dx:DXImage 'SvgImages/Outlook Inspired/Glyph_Video.svg'}"
+                         Content="{convMVVM2:Localize VisionView}"
+                         Command="{Binding PopupWindowCommand}"
+                         CommandParameter="Vision"
+                         Padding="5"></dx:SimpleButton>
+        <dx:SimpleButton Glyph="{dx:DXImage 'SvgImages/Outlook Inspired/Detailed.svg'}"
+                         Content="{convMVVM2:Localize DetailView}"
+                         Command="{Binding PopupWindowCommand}"
+                         CommandParameter="Detail"
+                         Padding="5"></dx:SimpleButton>
+    </dx:ThemedWindow.HeaderItems>
+    <convMVVM2:WPFRegion RegionName="MainView">
+    </convMVVM2:WPFRegion>
+</dx:ThemedWindow>

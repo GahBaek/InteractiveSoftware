@@ -1,0 +1,20 @@
+﻿ShowRoomDisplay
+
+
+winexe
+C#
+.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\
+ShowRoomDisplay
+none
+false
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+
+15328576450
+
+51-964445443
+252-25473661
+Views\CheckMonitorConnectionView.xaml;Views\DashView.xaml;Views\DetailView.xaml;Views\MainView.xaml;Views\ProjectView.xaml;Views\SettingView.xaml;Views\SpotEditorControl.xaml;Views\VisionView.xaml;Windows\CommonWindow.xaml;Windows\CommonWindowView.xaml;Windows\DetailWindow.xaml;Windows\MainWindow.xaml;Windows\MainWindowView.xaml;Windows\VideoWindowView.xaml;Windows\VisionWindow.xaml;
+
+False
+

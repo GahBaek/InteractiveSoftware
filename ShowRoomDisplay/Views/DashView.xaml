@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="ShowRoomDisplay.Views.DashView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ShowRoomDisplay.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             xmlns:behaviors="clr-namespace:ShowRoomDisplay.Behaviors"
+             xmlns:Converter="clr-namespace:ShowRoomDisplay.Converters"
+             xmlns:vm="clr-namespace:ShowRoomDisplay.ViewModels"
+             xmlns:convMVVM2="https://github.com/gellston/ConvMVVM2"
+             xmlns:b="http://schemas.microsoft.com/xaml/behaviors"
+             d:DataContext="{d:DesignInstance Type=vm:DashViewModel}"
+             convMVVM2:ViewModelLocator.AutoWireViewModel="True"
+             convMVVM2:ViewModelLocator.UseNamePatternMapper="True"
+             convMVVM2:ViewModelLocator.UseViewModelMapper="False">
+
+    <UserControl.Resources>
+        <convMVVM2:ColorToBrushConverter x:Key="ColorToBrushConverter" />
+    </UserControl.Resources>
+    <Grid>
+        <local:SpotEditorControl
+            ImageSource="{Binding ImagePath}"
+            Spots="{Binding Spots}"
+            IsEditable="False"
+            VideoViewModelCollection="{Binding Spots}"
+            SelectSpotCommand="{Binding SelectVideoCommand}" />
+
+        <Border Background="#80000000"
+                CornerRadius="8"
+                Padding="8"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Bottom"
+                Margin="20">
+            <StackPanel>
+                <TextBlock Text="설비 목록"
+                           Foreground="White"
+                           FontWeight="Bold"
+                           FontSize="12"
+                           Margin="0,0,0,5"/>
+                <ListBox ItemsSource="{Binding ProjectList}"
+                           SelectedItem="{Binding SelectedProject}"
+                           Width="150"
+                           Height="100"
+                           Background="White"
+                           BorderThickness="0">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}" Foreground="Black" />
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>

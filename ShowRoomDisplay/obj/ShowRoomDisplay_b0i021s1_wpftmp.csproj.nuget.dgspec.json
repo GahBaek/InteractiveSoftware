@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HVS\\source\\repos\\새 폴더\\ShowRoomDisplay_최종본\\ShowRoomDisplay\\ShowRoomDisplay.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HVS\\source\\repos\\새 폴더\\ShowRoomDisplay_최종본\\ShowRoomDisplay\\ShowRoomDisplay.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HVS\\source\\repos\\새 폴더\\ShowRoomDisplay_최종본\\ShowRoomDisplay\\ShowRoomDisplay.csproj",
+        "projectName": "ShowRoomDisplay",
+        "projectPath": "C:\\Users\\HVS\\source\\repos\\새 폴더\\ShowRoomDisplay_최종본\\ShowRoomDisplay\\ShowRoomDisplay.csproj",
+        "packagesPath": "C:\\Users\\HVS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HVS\\source\\repos\\새 폴더\\ShowRoomDisplay_최종본\\ShowRoomDisplay\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HVS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/eLEv4kMgolNndeZLqB8IjMyTRd7oitOfInpzLbvdxH1UGEy5KC/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "ConvMVVM2.WPF": {
+              "target": "Package",
+              "version": "[1.21.10.18, )"
+            },
+            "DevExpress.Images": {
+              "target": "Package",
+              "version": "[23.2.4, )"
+            },
+            "DevExpress.Wpf.Charts": {
+              "target": "Package",
+              "version": "[23.2.4, )"
+            },
+            "DevExpress.Wpf.Controls": {
+              "target": "Package",
+              "version": "[23.2.4, )"
+            },
+            "DevExpress.Wpf.Core": {
+              "target": "Package",
+              "version": "[23.2.4, )"
+            },
+            "DevExpress.Wpf.Ribbon": {
+              "target": "Package",
+              "version": "[23.2.4, )"
+            },
+            "DevExpress.Wpf.Themes.VS2019Dark": {
+              "target": "Package",
+              "version": "[23.2.4, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.135, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

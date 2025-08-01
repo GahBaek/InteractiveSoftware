@@ -1,0 +1,1026 @@
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.AssemblyReference.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.lref
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.exe
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.deps.json
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.runtimeconfig.json
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.WPF.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Drawing.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Images.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Mvvm.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Office.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Printing.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.Designer.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Charts.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Controls.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Core.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Docking.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Layout.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.DocumentViewer.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Extensions.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.LayoutControl.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Printing.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.PropertyGrid.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Ribbon.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.VS2019Dark.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\System.Private.ServiceModel.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.g.resources
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfoInputs.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfo.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.CoreCompileInputs.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoom.0A37CFAF.Up2Date
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\refint\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.genruntimeconfig.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ref\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.exe
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.deps.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.runtimeconfig.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.WPF.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Drawing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Images.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Mvvm.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Office.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Printing.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.Designer.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Charts.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Controls.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Core.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Docking.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Layout.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.DocumentViewer.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Extensions.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.LayoutControl.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Printing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.PropertyGrid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Ribbon.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.VS2019Dark.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\System.Private.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.AssemblyReference.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.lref
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.g.resources
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfoInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfo.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.CoreCompileInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoom.0A37CFAF.Up2Date
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\refint\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.genruntimeconfig.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\ref\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.exe
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.deps.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.runtimeconfig.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.WPF.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Drawing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Images.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Mvvm.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Office.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Printing.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.Designer.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Charts.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Controls.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Core.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Docking.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Layout.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.DocumentViewer.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Extensions.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.LayoutControl.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Printing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.PropertyGrid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Ribbon.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.VS2019Dark.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.Private.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.AssemblyReference.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.lref
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.g.resources
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfoInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfo.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.CoreCompileInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoom.0A37CFAF.Up2Date
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\refint\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.genruntimeconfig.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ref\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.exe
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.deps.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.runtimeconfig.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.WPF.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Drawing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Images.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Mvvm.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Office.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Printing.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.Designer.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Charts.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Controls.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Core.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Docking.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Layout.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.DocumentViewer.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Extensions.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.LayoutControl.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Printing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.PropertyGrid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Ribbon.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.VS2019Dark.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.Private.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.AssemblyReference.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.lref
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.g.resources
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfoInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfo.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.CoreCompileInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoom.0A37CFAF.Up2Date
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\refint\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.genruntimeconfig.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ref\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.exe
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.deps.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.runtimeconfig.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.WPF.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Drawing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Images.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Mvvm.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Office.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Printing.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.Designer.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Charts.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Controls.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Core.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Docking.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Layout.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.DocumentViewer.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Extensions.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.LayoutControl.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Printing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.PropertyGrid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Ribbon.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.VS2019Dark.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.Private.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.AssemblyReference.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.lref
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.g.resources
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfoInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfo.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.CoreCompileInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoom.0A37CFAF.Up2Date
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\refint\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.genruntimeconfig.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본 - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ref\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.exe
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.deps.json
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.runtimeconfig.json
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.WPF.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Drawing.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Images.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Mvvm.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Office.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Printing.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.Designer.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Charts.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Controls.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Core.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Docking.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Layout.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.DocumentViewer.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Core.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Extensions.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.LayoutControl.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Printing.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.PropertyGrid.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Ribbon.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.VS2019Dark.v23.2.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.Private.ServiceModel.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.AssemblyReference.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.lref
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.baml
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.g.resources
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfoInputs.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfo.cs
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.CoreCompileInputs.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoom.0A37CFAF.Up2Date
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\refint\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.genruntimeconfig.cache
+C:\Users\HVS\source\repos\ShowRoomDisplay_최종본\ShowRoomDisplay\obj\Debug\net9.0-windows\ref\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.exe
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.deps.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.runtimeconfig.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.WPF.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Drawing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Images.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Mvvm.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Office.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Printing.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.Designer.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Charts.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Controls.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Core.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Docking.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Layout.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.DocumentViewer.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Extensions.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.LayoutControl.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Printing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.PropertyGrid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Ribbon.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.VS2019Dark.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\System.Private.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.AssemblyReference.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.lref
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.g.resources
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfoInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfo.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.CoreCompileInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoom.0A37CFAF.Up2Date
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\refint\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.genruntimeconfig.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1)\ShowRoomDisplay\obj\Debug\net9.0-windows\ref\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.exe
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.deps.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.runtimeconfig.json
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ConvMVVM2.WPF.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Drawing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Images.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Mvvm.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Office.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Printing.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Charts.Designer.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Charts.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Controls.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Core.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Docking.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Layout.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.DocumentViewer.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Core.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.Extensions.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Grid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.LayoutControl.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Printing.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.PropertyGrid.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Ribbon.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\DevExpress.Xpf.Themes.VS2019Dark.v23.2.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.Private.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\bin\Debug\net9.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.AssemblyReference.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VideoWindowView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay_MarkupCompile.lref
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DashView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\DetailView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\MainView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\ProjectView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SettingView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\SpotEditorControl.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\VisionView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\CommonWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\DetailWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\MainWindowView.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Windows\VisionWindow.baml
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.g.resources
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfoInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.AssemblyInfo.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.csproj.CoreCompileInputs.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoom.0A37CFAF.Up2Date
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\refint\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.pdb
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ShowRoomDisplay.genruntimeconfig.cache
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\ref\ShowRoomDisplay.dll
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\CheckMonitorConnectionView.g.cs
+C:\Users\HVS\source\repos\새 폴더\ShowRoomDisplay_최종본 - 복사본(1) - 복사본\ShowRoomDisplay\obj\Debug\net9.0-windows\Views\CheckMonitorConnectionView.baml
